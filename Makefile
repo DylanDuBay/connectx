@@ -12,3 +12,6 @@ main.o:
 clean:
 	rm $(BINS)
 
+run:
+	./connectx
+
